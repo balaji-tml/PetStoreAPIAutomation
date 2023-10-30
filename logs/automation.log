@@ -1,0 +1,9 @@
+07:10:28.296 [main] DEBUG api.test.UserTests - Debugging...
+07:10:28.444 [main] INFO  api.test.UserTests -  ****** Creating user ******
+07:10:36.719 [main] INFO  api.test.UserTests -  ****** User Created ******
+07:10:36.943 [main] INFO  api.test.UserTests -  ****** Getting User By Name ******
+07:10:38.395 [main] INFO  api.test.UserTests -  ****** Retrieved User By Name ******
+07:10:38.411 [main] INFO  api.test.UserTests -  ****** Updating User By Name ******
+07:10:41.211 [main] INFO  api.test.UserTests -  ****** Updated User By Name ******
+07:10:41.224 [main] INFO  api.test.UserTests -  ****** Deleting User By Name ******
+07:10:42.665 [main] INFO  api.test.UserTests -  ****** Deleted User By Name ******
